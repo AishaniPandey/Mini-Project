@@ -1,7 +1,7 @@
 # Mini-Project
 
 1)This is a project made using Flutter and Basics of Machine Learning in order to predict the type of Fertilizer to be used in a particular area given Temperature, 
-Humidity , Moisture, Soil Type, Crop Type, Nitrogen, Potassium, Phosphorous levels.
+Humidity , Moisture, Soil Type, Crop Type, Nitrogen, Potassium, Phosphorous levels (NPK Ratio).
 
 ->We will analyse the soil quality and weather conditions give the best type of fertilizer to be used to help the farmers with the help of machine learning using 
 the technique of random forest.
